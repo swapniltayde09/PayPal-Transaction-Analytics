@@ -1,0 +1,53 @@
+1. Key Market Analysis (Top Countries by Transaction Volume)
+Insight: The United States and a few key countries dominate both sending and receiving transaction volumes in Q4 2023.
+
+2. High-Value Transaction Monitoring
+Insight: Several transactions exceed $10,000 in 2023, highlighting potential high-risk users or use cases.
+
+3. Top-Performing Merchant Identification
+Insight: A small group of merchants accounts for the highest total revenue, suggesting concentration in merchant success.
+
+4. Currency Risk Exposure Analysis
+Insight: USD, EUR, and GBP are the most converted destination currencies, indicating FX exposure concentration.
+
+5. Transaction Value Classification
+Insight: Regular transactions far outweigh high-value ones, indicating a consumer-driven platform.
+
+6. Transaction Nature Classification
+Insight: Most Q1 2024 transactions are domestic, reducing regulatory and FX complexity.
+
+7. High-Value User Identification
+Insight: A limited number of users consistently average above $5,000 per transaction, identifying premium customers.
+
+8. Transaction Geography Classification
+Insight: Domestic transactions are more frequent than international, though international ones may be higher in value.
+
+9. Monthly Transaction Trends 2023
+Insight: Transaction volumes peak during Q4, reflecting holiday season spikes.
+
+10. Top Customer Identification
+Insight: One user contributes a significant share of transaction volume, marking them for VIP attention.
+
+11. Currency Risk Exposure Analysis
+Insight: USD emerges as the dominant transaction currency from May 2023 to May 2024.
+
+12. Top-Performing Merchant Identification
+Insight: Top merchants maintain consistent performance with both volume and transaction count.
+
+13. Transaction Value & Geography Segmentation
+Insight: Regular domestic transactions dominate, but high-value international ones are critical to revenue.
+
+14. Monthly Transaction Segmentation Analysis 2023
+Insight: Regular domestic transactions dominate each month, but international high-value ones contribute significantly.
+
+15. Merchant Performance Scoring System
+Insight: Only a few merchants score 'Excellent', suggesting room for sales team engagement.
+
+16. Consistently Engaged User Identification
+Insight: Dozens of users are active in at least 6 months, ideal for loyalty programs.
+
+17. Merchant Monthly Performance Dashboard
+Insight: A few merchants consistently exceed $50,000 monthly, signaling strategic partnerships.
+
+18. Merchant Monthly Performance Dashboard
+Insight: Monthly tracking reveals variable performance among merchants, highlighting strong and weak periods.
