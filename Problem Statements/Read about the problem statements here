@@ -1,0 +1,56 @@
+
+# PayPal Transactions Problem Statements
+
+1. **Key Market Analysis (Top Countries by Transaction Volume)**  
+   Identify the top 5 sending and receiving countries in Q4 2023 based on transaction amounts.
+
+2. **High-Value Transaction Monitoring**  
+   Extract transactions over $10,000 from 2023 to support risk and fraud detection.
+
+3. **Top-Performing Merchant Identification**  
+   Identify merchants with the highest total received amounts between Nov 2023 and Apr 2024.
+
+4. **Currency Risk Exposure Analysis**  
+   Analyze top currency pairs for conversions between May 2023 and May 2024 to assess FX risk.
+
+5. **Transaction Value Classification**  
+   Categorize 2023 transactions as High Value or Regular for financial reporting.
+
+6. **Transaction Nature Classification**  
+   Classify Q1 2024 transactions as Domestic or International based on sender/recipient location.
+
+7. **High-Value User Identification**  
+   Find users with average transaction values above $5,000 between Nov 2023 and Apr 2024.
+
+8. **Transaction Geography Classification**  
+   Determine whether Q1 2024 transactions are Domestic or International for risk assessment.
+
+9. **Monthly Transaction Trends 2023**  
+   Analyze month-by-month transaction volumes for 2023 to identify seasonal patterns.
+
+10. **Top Customer Identification**  
+    Identify the highest-spending user from May 2023 to May 2024 for loyalty recognition.
+
+11. **Currency Risk Exposure Analysis**  
+    Find the currency with the highest transaction volume between May 2023 and May 2024.
+
+12. **Top-Performing Merchant Identification**  
+    Rank merchants based on total and average transaction amounts from Nov 2023 to Apr 2024.
+
+13. **Transaction Value & Geography Segmentation**  
+    Segment 2023 transactions by value and geographic type for compliance and risk analysis.
+
+14. **Monthly Transaction Segmentation Analysis 2023**  
+    Classify 2023 transactions monthly by value and geography to detect revenue trends.
+
+15. **Merchant Performance Scoring System**  
+    Score merchants from Nov 2023 to Apr 2024 into tiers based on received volume.
+
+16. **Consistently Engaged User Identification**  
+    Identify users active in at least 6 distinct months between May 2023 and Apr 2024.
+
+17. **Merchant Monthly Performance Dashboard**  
+    Track merchants' monthly volumes and highlight those exceeding $50,000.
+
+18. **Merchant Monthly Performance Dashboard**  
+    Track merchant transaction volumes monthly and flag high-performance months.
