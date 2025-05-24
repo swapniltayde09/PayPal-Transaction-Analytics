@@ -13,10 +13,10 @@ SQL analysis of PayPal's transaction data to optimize:
 - **Key Skills**: Financial analysis, data modeling, SQL optimization
 
 ## 📁 Project Structure
-📁 data/           -- Sample data or schema files  
-📁 queries/        -- All SQL queries categorized by problem  
-📁 outputs/        -- Query result samples or exports (optional)  
-README.md         -- Project documentation  
+📁 dataset/                   -- Sample data or schema files  
+📁 problem statements/         -- All SQL queries categorized by problem  
+📁 outputs/                    -- Query result samples or exports 
+README.md                     -- Project documentation  
 
 ## 🔍 Sample Output or Results 
 ### 📊 Sample Insights
