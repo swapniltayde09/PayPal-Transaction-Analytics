@@ -35,3 +35,11 @@ README.md                     -- Project documentation
 ## 🚀 How to Use
 1. Set up schema: `mysql < data/paypal_transactions.sql`
 2. Run queries: `mysql < queries/[query_name].sql`
+
+---
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](./LICENSE.md).
+
+You are free to use, modify, and distribute this project for personal or commercial purposes, provided proper attribution is given.
