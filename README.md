@@ -1,4 +1,4 @@
-# PayPal Transaction Analytics
+# PayPal Data-Driven Platform Optimization Strategy using SQL
 
 ## 📊 Project Overview
 SQL analysis of PayPal's transaction data to optimize:
